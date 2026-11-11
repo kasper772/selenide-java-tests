@@ -1,0 +1,10 @@
+target/
+allure-results/
+build/
+*.iml
+.idea/
+.vscode/
+.DS_Store
+
+# Allure tool downloaded by allure-maven, plus its local report history
+.allure/
